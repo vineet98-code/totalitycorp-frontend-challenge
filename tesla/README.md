@@ -1,7 +1,6 @@
 # Tesla Clone PROJECT
 
-Tesla Clone builds with ReactJS + Styled Components) and have navbar, footer with responsive features.
-
+Tesla Clone builds upon React JS + Styled Components(for CSS) and have many features like Navbar and Sidebar, Footer with responsive features, onhover button features also added with animations.
 
 ## Authors
 
@@ -12,13 +11,13 @@ Tesla Clone builds with ReactJS + Styled Components) and have navbar, footer wit
 Clone the project
 
 ```bash
-  git clone git@github.com:vineet98-code/Admin-ui.git
+  git clone git@github.com:vineet98-code/totalitycorp-frontend-challenge.git
 ```
 
 Navigate to the project
 
 ```bash
-  cd .\Tesla\tesla-clone
+  cd .\tesla
 ```
 
 Install dependencies
@@ -27,21 +26,15 @@ Install dependencies
   npm install
 ```
 
-Start the server
-
-
-
 view client in the browser
 
 Local: http://localhost:3000
 
-
 ## 🚀 About Me
 
 I’m actively looking for a Full Stack / Front End Developers Role.
-I’m currently learning and upgrading my skills in web development & mobile development.
-Love to work with ReactJS.
+I’m currently learning and upgrading my skills in web development. And also I have a year of experience in Front End Developers Role.
 
 ## Tech Stack
 
-**Client:** React, Styled-Component, redux, icons-materials
+**Client:** React, Styled-Component, Materials-UI icons

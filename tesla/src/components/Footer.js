@@ -3,18 +3,17 @@ import styled from "styled-components";
 
 const Footer = () => {
   return (
-    <div>
-        <Ul>
-          <a href="/">Tesla &copy; 2020</a>
-          <a href="/">Privacy & Legal</a>
-          <a href="/">Vehicle Recals</a>
-          <a href="/">Contact</a>
-          <a href="/">Careers</a>
-          <a href="/">News</a>
-          <a href="/">Engage</a>
-          <a href="/">Locations</a>
-        </Ul>
-    </div>
+    <Ul>
+      <a href="/">Tesla &copy; 2020</a>
+      <a href="/">Privacy & Legal</a>
+      <a href="/">Vehicle Recals</a>
+      <a href="/">Contact</a>
+      <a href="/">Careers</a>
+      <a href="/">News</a>
+      <a href="/">Engage</a>
+      <a href="/">Locations</a>
+    </Ul>
+
   )
 }
 
